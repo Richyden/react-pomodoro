@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: blueviolet;
+}
+
+a,button {
+    margin: 5px;
+}
+
+.semiWhite {
+    background-color:black;
+}
+
+.axeYspacing {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 100px;
+}
